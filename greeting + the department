@@ -2,3 +2,5 @@ def greeting(name, department):
     print("welcome,"+ name)
     print("you are part of" + department)
           
+#in this code I made greeting a function by def.
+#this is a small code to help people practice and learn.
