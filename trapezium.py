@@ -1,0 +1,5 @@
+a=int(input("base of the shape:"))
+b= int(input("the second base of the trapezium:"))
+h=int(input("the height of the trapezium:"))
+ar=(1/2 *(a+b)*h)
+print(ar,"area of the trapezium" )
